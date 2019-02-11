@@ -51,6 +51,7 @@ body{
     height: 100px;
     width:  100%;
     background-color: blue;
+    float: left;
 
 
 }
@@ -58,34 +59,43 @@ body{
     height: 200px;
     width: 50%;
     background-color: red;
+    float: left;
 
 }
 .c2s3{
     height: 200px;
     width: 50%;
     background-color: black;
+    float:left;
 
 }
 .c2s4{
     height: 200px;
     width: 25%;
     background-color: red;
+    float: left;
 }
 .c2s5{
     height: 200px;
     width: 75%;
     background-color: black;
+    float: left;
 }
 .c2s6{
     height: 200px;
     width: 66.66%;
     background-color: red;
+    float: left;
 }
 .c2s7{
     height: 200px;
     width: 33.33%;
     background-color: black;
+    float: left;
 }
 .c2footer{
-
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+    float: left;
 }
