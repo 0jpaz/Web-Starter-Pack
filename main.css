@@ -99,3 +99,32 @@ body{
     background-color: blue;
     float: left;
 }
+
+
+#c3article{
+    width: 400px;
+    padding: 8px;
+    border: 8px;
+    border-radius: 4px;
+
+
+}
+
+.c3margin{
+    margin: 0;
+
+
+}
+
+.c3width{
+    width: 400;
+}
+
+
+
+
+
+
+
+
+
